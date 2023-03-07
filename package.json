@@ -1,0 +1,20 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6",
+    "dbd.js": "^3.0.8",
+    "dbdjs.db": "^1.0.2",
+    "discord.js": "^13.12.0"
+  }
+}
